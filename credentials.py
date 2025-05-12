@@ -38,3 +38,7 @@ call_hedge = 19510
 call_strike = 19500
 put_hedge = 19490
 put_strike = 19500
+call_check_time = 1
+call_reentry_time = 5
+put_check_time = 1
+put_reentry_time = 5
